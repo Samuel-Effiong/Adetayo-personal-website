@@ -1,0 +1,13 @@
+{
+    "images_path": [
+        "img/img-1.webp", "img/img-2.webp", "img/img-3.webp",
+        "img/img-4.webp", "img/img-5.webp", "img/img-6.webp", 
+        "img/img-7.webp", "img/img-8.webp", "img/img-9.webp"
+    ],
+
+    "images_description": [
+        "Personal Portolio Website", "E-commerce Website", "Love God above all things",
+        "Real Estate Listing Website", "Travel Planning Website", "Event Management System",
+        "Social Media Platform", "Recipe Sharing Website", "Online Learning Platform"
+    ]
+}
